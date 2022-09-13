@@ -9,8 +9,9 @@ namespace attributes_reflection_delegates
 
         static void Main(string[] args)
         {
-            Practice someBuiltInReflections = new Practice();
-            Console.ReadLine();
+            /* uncomment below code to work on reflection */
+            //Practice someBuiltInReflections = new Practice();
+            //Console.ReadLine();
         }
     }
 
