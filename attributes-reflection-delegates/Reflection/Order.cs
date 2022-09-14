@@ -39,5 +39,10 @@ namespace attributes_reflection_delegates.Reflection
         {
             public int OId { get; set; }
         }
+
+        public static string CallingStaticMethodInOrder()
+        {
+            return "This is CallingStaticMethodInOrder";
+        }
     }
 }

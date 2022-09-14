@@ -10,7 +10,7 @@ namespace attributes_reflection_delegates
         static void Main(string[] args)
         {
             /* uncomment below code to work on reflection */
-            //Practice<Order> someBuiltInReflections = new Practice<Order>();
+            Practice<Order> someBuiltInReflections = new Practice<Order>();
             Console.ReadLine();
         }
     }
