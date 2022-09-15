@@ -22,7 +22,7 @@ namespace attributes_reflection_delegates
                 process1.Start();
             }
 
-            Console.WriteLine("MainApp");
+            Console.WriteLine("Main Application");
             Console.ReadKey();
         }
 
