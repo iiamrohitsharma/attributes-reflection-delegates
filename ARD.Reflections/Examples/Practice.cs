@@ -6,7 +6,7 @@ using System.Reflection;
 using System.Security.Claims;
 using System.Text;
 
-namespace attributes_reflection_delegates.Reflection
+namespace ARD.Reflections.Examples
 {
     public static class StringExtensions
     {
